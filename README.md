@@ -1,4 +1,4 @@
-## Hi there 👋I'm Ajit!
+## Hi there, I'm Ajit! 👋
 
 My first programming teacher was an 🚀ex-NASA🚀 employee  and she inspired me to get into coding &rarr; Now:
 - 🖥️ Been coding for 5 years
