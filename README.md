@@ -1,11 +1,14 @@
-## Hi there, I'm Ajit! 👋
+## 👋 Hey there, I'm Ajit!
 
-My first programming teacher was an former NASA employee and she inspired me to get into coding &rarr; Here's a little about me:
-- 🖥️ I've been coding for 5 years
-- 🤞 Currently coding an open-source financial planning application to give every access to personalized financial advice 
-- 🐻 I’m learning C# and Laravel at the moment
+⚠️Warning⚠️: Entering a zone of relentless curiosity and perpetual debugging. Proceed with excitement!
 
-I'm currently on the look out for a role in fullstack web development, ideally in JavaScript (other languages aren't deal-breakers). I'd especially love to work with a small, tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+Here's a little about me:
+* 🖥️ I've been coding for 5 years
+* 🚀 Currently coding an open-source financial planning application
+* 🌱 Always learning: diving into C# and Laravel at the moment
+* 💼 Open to new opportunities in fullstack web development (JavaScript preferred, but I'm language-flexible!)
+
+I thrive in small, collaborative teams where I can contribute meaningfully from day one. If you're working on something exciting or hiring, let's connect!
 
 
   | What I Use
