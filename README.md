@@ -1,6 +1,6 @@
 ## Hi there, I'm Ajit! 👋
 
-My first programming teacher was an 🚀ex-NASA🚀 employee  and she inspired me to get into coding &rarr; Now:
+My first programming teacher was an former NASA employee and she inspired me to get into coding &rarr; Now:
 - 🖥️ Been coding for 5 years
 - 🤞 Coding an open-source financial planning application to give every access to personalized financial advice 
 - 🐻 I’m learning C# and Laravel at the moment
