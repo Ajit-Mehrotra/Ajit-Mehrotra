@@ -20,7 +20,7 @@ I thrive in small, collaborative teams where I can contribute meaningfully from 
 **Tools** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode) ![Terminal Badge](https://img.shields.io/badge/-Terminal-100000?style=for-the-badge&logo=gnubash) ![Github Badge](https://img.shields.io/badge/GitHub-330F63?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ajit-Mehrotra&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ajit-Mehrotra&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ajit-Mehrotra)
