@@ -1,10 +1,24 @@
-## Howdy, I'm Ajit (my name rhymes with legit 😎)
-![Tom and Jerry Gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNneDFxd3F5OGY1OG5oNWhreGk1cnQyYWw3MjJpdWJ3N29vbHQ2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jOZTed8GLICPaf5Nrg/giphy.gif)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rock+Salt&size=43&duration=3000&pause=1000&color=D8535F&center=true&vCenter=true&width=435&lines=what+up.+I'm+Ajit" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center"> <i> 'n it rhymes w legit</i> 😎</p>
 
-Here's a little about me:
-* I've been coding for 5+ years
-* Currently learning C/C++ still do a lot of a web development in JS
-* I play a lot of apex legends and used to be a big rocket league enjoyer 
+<p align="center">
+ <img src="./the-omega-dap.png" alt="drawing" width="500"/>
+</p>
+
+
+
+ # Here's a little about me:
+* Software Contractor for [Unraid OS](https://unraid.net/). 
+* Currently working with C/C++ but still do a lot of a web development in JS as well.
+* Big apex legends enjoyer, and I used to play a lot of rocket league as well. 
+* I love doing carpentry and woodworker. Physical or digital, you can usually find me making something :)
+
+
+
 
   | What I've Used
 --- | ----
