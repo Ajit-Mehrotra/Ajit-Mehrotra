@@ -12,8 +12,8 @@
 
 
  # Here's a little about me:
-* Software Contractor for [Unraid OS](https://unraid.net/). 
-* Currently working with C/C++ but still do a lot of a web development in JS as well.
+* Software Developer for [Unraid OS](https://unraid.net/). 
+* Currently working with Typescript and GraphQL.
 * Big apex legends enjoyer, and I used to play a lot of rocket league as well. 
 * I love doing carpentry and woodworker. Physical or digital, you can usually find me making something :)
 
